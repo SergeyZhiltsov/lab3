@@ -1,0 +1,11 @@
+C:\Users\hasep\Desktop\lab3inj\serv\serv\obj\Debug\serv.csprojAssemblyReference.cache
+C:\Users\hasep\Desktop\lab3inj\serv\serv\obj\Debug\serv.Form1.resources
+C:\Users\hasep\Desktop\lab3inj\serv\serv\obj\Debug\serv.Properties.Resources.resources
+C:\Users\hasep\Desktop\lab3inj\serv\serv\obj\Debug\serv.csproj.GenerateResource.cache
+C:\Users\hasep\Desktop\lab3inj\serv\serv\obj\Debug\serv.csproj.CoreCompileInputs.cache
+C:\Users\hasep\Desktop\lab3inj\serv\serv\bin\Debug\serv.exe.config
+C:\Users\hasep\Desktop\lab3inj\serv\serv\bin\Debug\serv.exe
+C:\Users\hasep\Desktop\lab3inj\serv\serv\bin\Debug\serv.pdb
+C:\Users\hasep\Desktop\lab3inj\serv\serv\obj\Debug\serv.exe
+C:\Users\hasep\Desktop\lab3inj\serv\serv\obj\Debug\serv.pdb
+C:\Users\hasep\Desktop\lab3inj\serv\serv\obj\Debug\serv.csproj.CopyComplete
